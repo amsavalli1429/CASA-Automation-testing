@@ -1,0 +1,8 @@
+{
+  "TextJwttoken": "//textarea[contains(@class, 'npm__react-simple-code-editor__textarea')]",
+  "DecodedPayload": "//h4[text()='Decoded Header']",
+  "Decodedvalue": "(//h4[text()='Decoded Payload']/following-sibling::div//pre)[4]",
+  "Invalid_Signature": "//div[@data-testid=\"decoder__jwtEditor___notificationBar__error\"]",
+  "valid_Signature": "//p[text()='Please address JWT issues to verify signature.']",
+  "DecodedPayloadEmpty": "(//div[@class=\"json-viewer_container__iN5PA\"])[2]"
+}
